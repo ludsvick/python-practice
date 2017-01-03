@@ -7,6 +7,6 @@
 
 def test():
     print("Hello world!")
-    print("We made it!")
+    input("We made it!")
 
 test()
